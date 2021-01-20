@@ -41,6 +41,8 @@ namespace KampIntro
             }
             Console.WriteLine(kategoriEtiketi);
 
+            
+
 
 
         }
